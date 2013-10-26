@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -x
 
 user=wabiko
 pwfile=/root/passwd_wabiko
