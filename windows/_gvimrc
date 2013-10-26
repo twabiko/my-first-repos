@@ -1,0 +1,5 @@
+" $HOME/_gvimrc
+colorscheme pablo
+set guioptions+=a
+set nobk
+set sw=4 sts=4 ts=4 et ai nonu nohls
